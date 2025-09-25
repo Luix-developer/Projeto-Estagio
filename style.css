@@ -9,6 +9,7 @@ body {
     padding: 0;
     background-color: #f5f5f5;
     color: #010101;
+    padding: 28px;
 }
 
 /* Aplica a fonte 'Montserrat' para os títulos */
@@ -340,5 +341,6 @@ a {
 .editorias {
    
    padding-left: 50%;
+
 
 }
